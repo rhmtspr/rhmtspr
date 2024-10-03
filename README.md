@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 # Halo semua! 
 
 Perkenalkan nama saya **Rachmat Risky Saputra**.<br>
@@ -33,3 +33,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhmtspr&layout=compact&theme=algolia"/>
 </a>
 </p>
+-->
