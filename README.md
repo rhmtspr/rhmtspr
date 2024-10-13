@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">Hello, I'm Putra. Currently, I'm a informatics students and focusing on backend web development and also learning a little bit about data science.</p>
+<p align="left">Hello, I'm Putra. Currently, I'm a informatics students and focusing on backend web development and also learning a little bit about data science and artificial intelligence.</p>
 
+<h3>Tech Stacks</h3>
 ###
 
 <div align="left">
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
+<h3>Socials</h3>
 ###
 
 <div align="center">
