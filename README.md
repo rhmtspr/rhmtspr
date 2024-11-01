@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">Hello, I'm Putra. Currently, I'm a informatics students and focusing on backend web development and also learning a little bit about data science and artificial intelligence.</p>
+<p align="left">Hello, I'm Rahmat Risky Saputra. Currently, I'm a informatics students and focusing on backend web development and also learning a little bit about data science and artificial intelligence.</p>
 
 <h3>Tech Stacks</h3>
 ###
