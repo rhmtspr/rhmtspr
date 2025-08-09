@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Rachmat Risky Saputra. I'm aspiring software engineer. Currently, I'm an undegraduate student majoring in Informatics and focusing on backend web development and also learning a little bit about data science and artificial intelligence.
+Aspiring software engineer. Currently, I'm an undegraduate student majoring in Informatics and focusing on backend web development and also learning a little bit about data science and artificial intelligence.
 
 
 ## 🌐 Socials:
